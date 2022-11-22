@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Blake</h1>
 <h3 align="center">I am a London based Junior Web developer</h3>
 
-- 🔭 I’m currently working on **a Javascript based fighting game with HTML Canvas**
-
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
